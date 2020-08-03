@@ -1,0 +1,258 @@
+{
+   "month": {
+      "2015-01": {
+         "1_home_page": {
+            "Female": 11414,
+            "Male": 11186
+         },
+         "2_search_page": {
+            "Female": 6913,
+            "Male": 6641
+         },
+         "3_payment_page": {
+            "Female": 1243,
+            "Male": 1147
+         },
+         "4_payment_confirmation_page": {
+            "Female": 109,
+            "Male": 80
+         }
+      },
+      "2015-02": {
+         "1_home_page": {
+            "Female": 11199,
+            "Male": 11401
+         },
+         "2_search_page": {
+            "Female": 6820,
+            "Male": 6867
+         },
+         "3_payment_page": {
+            "Female": 1235,
+            "Male": 1177
+         },
+         "4_payment_confirmation_page": {
+            "Female": 86,
+            "Male": 87
+         }
+      },
+      "2015-03": {
+         "1_home_page": {
+            "Female": 11250,
+            "Male": 11350
+         },
+         "2_search_page": {
+            "Female": 4454,
+            "Male": 4425
+         },
+         "3_payment_page": {
+            "Female": 337,
+            "Male": 294
+         },
+         "4_payment_confirmation_page": {
+            "Female": 26,
+            "Male": 18
+         }
+      },
+      "2015-04": {
+         "1_home_page": {
+            "Female": 11212,
+            "Male": 11388
+         },
+         "2_search_page": {
+            "Female": 4489,
+            "Male": 4591
+         },
+         "3_payment_page": {
+            "Female": 285,
+            "Male": 312
+         },
+         "4_payment_confirmation_page": {
+            "Female": 20,
+            "Male": 26
+         }
+      }
+   },
+   "page": {
+      "1_home_page": {
+         "2015-01": {
+            "Desktop": 15050,
+            "Mobile": 7550
+         },
+         "2015-02": {
+            "Desktop": 15050,
+            "Mobile": 7550
+         },
+         "2015-03": {
+            "Desktop": 15050,
+            "Mobile": 7550
+         },
+         "2015-04": {
+            "Desktop": 15050,
+            "Mobile": 7550
+         }
+      },
+      "2_search_page": {
+         "2015-01": {
+            "Desktop": 7529,
+            "Mobile": 6025
+         },
+         "2015-02": {
+            "Desktop": 7632,
+            "Mobile": 6055
+         },
+         "2015-03": {
+            "Desktop": 7370,
+            "Mobile": 1509
+         },
+         "2015-04": {
+            "Desktop": 7569,
+            "Mobile": 1511
+         }
+      },
+      "3_payment_page": {
+         "2015-01": {
+            "Desktop": 1221,
+            "Mobile": 1169
+         },
+         "2015-02": {
+            "Desktop": 1191,
+            "Mobile": 1221
+         },
+         "2015-03": {
+            "Desktop": 296,
+            "Mobile": 335
+         },
+         "2015-04": {
+            "Desktop": 302,
+            "Mobile": 295
+         }
+      },
+      "4_payment_confirmation_page": {
+         "2015-01": {
+            "Desktop": 60,
+            "Mobile": 129
+         },
+         "2015-02": {
+            "Desktop": 54,
+            "Mobile": 119
+         },
+         "2015-03": {
+            "Desktop": 14,
+            "Mobile": 30
+         },
+         "2015-04": {
+            "Desktop": 22,
+            "Mobile": 24
+         }
+      }
+   },
+   "device": {
+      "Desktop": {
+         "2015-01": {
+            "1_home_page": 15050,
+            "2_search_page": 7529,
+            "3_payment_page": 1221,
+            "4_payment_confirmation_page": 60
+         },
+         "2015-02": {
+            "1_home_page": 15050,
+            "2_search_page": 7632,
+            "3_payment_page": 1191,
+            "4_payment_confirmation_page": 54
+         },
+         "2015-03": {
+            "1_home_page": 15050,
+            "2_search_page": 7370,
+            "3_payment_page": 296,
+            "4_payment_confirmation_page": 14
+         },
+         "2015-04": {
+            "1_home_page": 15050,
+            "2_search_page": 7569,
+            "3_payment_page": 302,
+            "4_payment_confirmation_page": 22
+         }
+      },
+      "Mobile": {
+         "2015-01": {
+            "1_home_page": 7550,
+            "2_search_page": 6025,
+            "3_payment_page": 1169,
+            "4_payment_confirmation_page": 129
+         },
+         "2015-02": {
+            "1_home_page": 7550,
+            "2_search_page": 6055,
+            "3_payment_page": 1221,
+            "4_payment_confirmation_page": 119
+         },
+         "2015-03": {
+            "1_home_page": 7550,
+            "2_search_page": 1509,
+            "3_payment_page": 335,
+            "4_payment_confirmation_page": 30
+         },
+         "2015-04": {
+            "1_home_page": 7550,
+            "2_search_page": 1511,
+            "3_payment_page": 295,
+            "4_payment_confirmation_page": 24
+         }
+      }
+   },
+   "sex": {
+      "Female": {
+         "2015-01": {
+            "1_home_page": 11414,
+            "2_search_page": 6913,
+            "3_payment_page": 1243,
+            "4_payment_confirmation_page": 109
+         },
+         "2015-02": {
+            "1_home_page": 11199,
+            "2_search_page": 6820,
+            "3_payment_page": 1235,
+            "4_payment_confirmation_page": 86
+         },
+         "2015-03": {
+            "1_home_page": 11250,
+            "2_search_page": 4454,
+            "3_payment_page": 337,
+            "4_payment_confirmation_page": 26
+         },
+         "2015-04": {
+            "1_home_page": 11212,
+            "2_search_page": 4489,
+            "3_payment_page": 285,
+            "4_payment_confirmation_page": 20
+         }
+      },
+      "Male": {
+         "2015-01": {
+            "1_home_page": 11186,
+            "2_search_page": 6641,
+            "3_payment_page": 1147,
+            "4_payment_confirmation_page": 80
+         },
+         "2015-02": {
+            "1_home_page": 11401,
+            "2_search_page": 6867,
+            "3_payment_page": 1177,
+            "4_payment_confirmation_page": 87
+         },
+         "2015-03": {
+            "1_home_page": 11350,
+            "2_search_page": 4425,
+            "3_payment_page": 294,
+            "4_payment_confirmation_page": 18
+         },
+         "2015-04": {
+            "1_home_page": 11388,
+            "2_search_page": 4591,
+            "3_payment_page": 312,
+            "4_payment_confirmation_page": 26
+         }
+      }
+   }
+}
